@@ -1,6 +1,6 @@
 # Simple Python program
 
-print("Hello, World! how are you")
+print("Hello, World!")
 
 name = input("sudhakar reddy ")
 print("Dear darling", name)
