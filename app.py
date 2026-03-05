@@ -2,5 +2,5 @@
 
 print("Hello, World! how are you")
 
-name = input("Enter your name: ")
+name = input("sudhakar reddy ")
 print("Hello", name)
